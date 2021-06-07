@@ -15,7 +15,8 @@ What is the quote? These aren't the droids you're looking for.
 Who said it? Obi-Wan Kenobi
 Obi-Wan Kenobi says, "These aren't the droids you're looking for."
  */
-
+// UCF COP3330 Summer 2021 Assignment 1 Solution
+//Copyright 2021 Anthony Banaag
 
 public class app {
     public static void main(String[] args){
